@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#• -n num_of_pass • -m min_pass_len • -x max_pass_len
 
 num_of_chosen=1
 num_of_lots=0
