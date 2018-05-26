@@ -19,15 +19,6 @@ mango
 ```
 
 ```
-./generate.sh -n 5
-OZKBQg2iSKi
-PBFbLYsPv3IF
-x4IjAu8HhaYO
-LByVKbqUCW
-1FWI3EAwLeT
-```
-
-```
 ./draw.sh -n 2 apple banana mango
 banana
 apple
